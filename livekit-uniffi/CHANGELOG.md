@@ -1,3 +1,9 @@
+## 0.2.1 (2026-09-23)
+
+### Fixes
+
+- Format the generated Swift bindings with swiftformat when building the Swift package.
+
 ## 0.2.0 (2026-09-22)
 
 ### Breaking Changes

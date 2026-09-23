@@ -1,3 +1,9 @@
+## 0.1.3 (2026-09-23)
+
+### Fixes
+
+- Java version in libwebrtc was bumped by Google, downgrade it again for Unity 2022 build compatibility - #1456 (@MaxHeimbrock)
+
 ## 0.1.2 (2026-09-22)
 
 ### Features
